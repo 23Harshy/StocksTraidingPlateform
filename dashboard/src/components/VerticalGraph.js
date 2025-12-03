@@ -46,8 +46,8 @@ export function VerticalGraph({ data }) {
     <div
       style={{
         width: "100%",
-        maxWidth: "600px",
-        height: "300px",
+        maxWidth: "800px",
+        height: "400px",
         marginTop: "20px",
       }}
     >
